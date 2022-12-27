@@ -1,3 +1,4 @@
+new line
 @extends('layouts.appPortal')
 
 @section('content')
