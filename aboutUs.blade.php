@@ -1,6 +1,6 @@
 new line
 @extends('layouts.appPortal')
-
+jnohjo
 @section('content')
 <style>
   .screen-img{
