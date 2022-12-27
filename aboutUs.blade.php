@@ -5,7 +5,7 @@ jnohjo
 <style>
   .screen-img{
   display: flex !important;
-  justify-content: flex-end !important;
+  justifyz-content: flex-end !important;
   margin-left: auto !important;
   margin-right: 0 !important;
 }
